@@ -1,0 +1,17 @@
+Plot	Water
+P01	full
+P02	half
+P03	full
+P04	half
+P05	half
+P06	full
+P07	full
+P08	full
+P09	half
+P10	half
+P11	half
+P12	half
+P13	half
+P14	full
+P15	full
+P16	full
